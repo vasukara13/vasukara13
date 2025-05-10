@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vasukara13&label=Profile%20views&color=0e75b6&style=flat" alt="vasukara13" /> </p>
 
-- 🔭 I’m currently working on **Data analytics project**
+- 🔭 I’m currently working on **Data prediciton Project and a Systems project**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Verilog, HDL and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vasukara13](https://github.com/vasukara13)
 
 - 📫 How to reach me **vasukara.19@gmail.com**
 
-- ⚡ Fun fact **I love to experiment with new technologies and solve challenging problems**
+- ⚡ Fun fact **I love to experiment with all types of data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
